@@ -13,3 +13,5 @@ Answer
 This is because you're using the "-w" option. On Windows this will disable the console window when running the program. From the pyinstaller documentation:
 -w, --windowed, --noconsole
 Windows and Mac OS X: do not provide a console window for standard i/o. On Mac OS X this also triggers building an OS X .app bundle. On Windows this option will be set if the first script is a ‘.pyw’ file. This option is ignored in *NIX systems
+
+Q.2. Pyinstaller generates .exe of huge filesize
